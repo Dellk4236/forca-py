@@ -9,6 +9,7 @@ Usa a biblioteca "random" para escolhar uma palavra aleatória
 
 - Níveis de dificuldade
 Atualmente inclui 4 níveis de dificuldade padrão:
+
 Fácil [1]:
 10 tentativas
 
